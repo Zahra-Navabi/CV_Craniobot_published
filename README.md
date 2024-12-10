@@ -1,6 +1,8 @@
 # CV-Craniobot
-Note: If the .net framework for the Thorlab actuators are not working follow the link below to fix it, by adding "Thorlabs.MotionControl.Controls.dll"
-to the assembly list, the VI will be able to load the rest as well. Save the file.
-Tobe able to use the thorlabs actuators in the robot, install Kinesis and follow the steps mentioned here: 
-https://www.thorlabs.com/Software/Motion%20Control/Kinesis/Kinesis-labview.pdf
-Make sure this is the address to where your OCT system saves the images: C:\Users\Public\Documents\Lumedica\OctEngine\Data
+This works preprint can be found: 
+https://www.biorxiv.org/content/10.1101/2024.09.03.611036v1
+All the robot software files are in the Robot_files folder. The current version other than MATLAB and LabVIEW,  also needs the following to be installed :
+-Kinesis software from Thorlabs (check : https://www.thorlabs.com/Software/Motion%20Control/Kinesis/Kinesis-labview.pdf)
+-OCT system native software (Lumedica OQ stratoscope)
+-Virtual serial port driver
+
