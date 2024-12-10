@@ -87,13 +87,13 @@
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="ThorLabs.MotionControl.Benchtop.DCServoCLI.dll" Type="Document" URL="../../CB III control files/ThorLabs.MotionControl.Benchtop.DCServoCLI.dll"/>
-			<Item Name="ThorLabs.MotionControl.Benchtop.DCServoCLI.dll" Type="Document" URL="../ThorLabs.MotionControl.Benchtop.DCServoCLI.dll"/>
+			<Item Name="ThorLabs.MotionControl.Benchtop.DCServoCLI.dll" Type="Document" URL="../thorlabs_files/ThorLabs.MotionControl.Benchtop.DCServoCLI.dll"/>
 			<Item Name="Thorlabs.MotionControl.Controls.dll" Type="Document" URL="../../CB III control files/Thorlabs.MotionControl.Controls.dll"/>
-			<Item Name="Thorlabs.MotionControl.Controls.dll" Type="Document" URL="../Thorlabs.MotionControl.Controls.dll"/>
+			<Item Name="Thorlabs.MotionControl.Controls.dll" Type="Document" URL="../thorlabs_files/Thorlabs.MotionControl.Controls.dll"/>
 			<Item Name="Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll" Type="Document" URL="../../CB III control files/Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll"/>
-			<Item Name="Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll" Type="Document" URL="../Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll"/>
+			<Item Name="Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll" Type="Document" URL="../thorlabs_files/Thorlabs.MotionControl.IntegratedStepperMotorsCLI.dll"/>
 			<Item Name="ThorLabs.MotionControl.KCube.DCServoCLI.dll" Type="Document" URL="../../CB III control files/ThorLabs.MotionControl.KCube.DCServoCLI.dll"/>
-			<Item Name="ThorLabs.MotionControl.KCube.DCServoCLI.dll" Type="Document" URL="../ThorLabs.MotionControl.KCube.DCServoCLI.dll"/>
+			<Item Name="ThorLabs.MotionControl.KCube.DCServoCLI.dll" Type="Document" URL="../thorlabs_files/ThorLabs.MotionControl.KCube.DCServoCLI.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
